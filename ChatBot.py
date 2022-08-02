@@ -15,7 +15,7 @@ print('How old are you?\n')
 
 age= input()
 
-age = int(age) #change age from a sting to an integer
+age = int(age) #change age from a string to an integer
 
 print('You are now ready to enter the world of Externia, Good Luck')
 
