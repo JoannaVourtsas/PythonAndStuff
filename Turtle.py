@@ -1,7 +1,8 @@
 import turtle #adds turtle library
 
 joanna = turtle.Turtle() #create the object turtle
-
+window = turtle.Screen()
+window.bgcolor(0,0,0) #change turtle window to black
 
 
 
@@ -21,9 +22,6 @@ def loop(numberofrepeats): #create function
         else:
             countercolor = countercolor + 1
         
-     
-      
-
     
 
-loop(10) #call function
+loop(20) #call function
