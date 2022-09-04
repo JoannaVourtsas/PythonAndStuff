@@ -1,0 +1,9 @@
+# PythonAndStuff
+
+
+Pictures will have to be downloaded and placed in arcade library documents 
+resources:images/animated_characters/Joanna Pics/
+
+Joanna Pics folder will have to be added 
+
+picture needed: trash,stick,peng (all downloadable in this file )
